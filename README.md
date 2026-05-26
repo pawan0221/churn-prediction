@@ -62,11 +62,7 @@ Telecom companies lose millions every year due to customer churn. This app uses 
 | Streamlit | Web app & deployment |
 | Git & GitHub | Version control |
 
-churn-prediction/
-├── app.py                      # Streamlit web application
-├── churn_decision_tree.joblib  # Trained Random Forest model
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation
+
 
 ---
 
